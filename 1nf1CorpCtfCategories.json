@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "category": "None",
+            "protected": true
+        },
+        {
+            "category": "Quiz",
+            "protected": true
+        }
+    ]
+}
