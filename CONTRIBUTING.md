@@ -1,9 +1,9 @@
 ## Contributor License Agreement ("CLA")
 
 In order to accept your pull request, we need you to submit a CLA. You only need
-to do this once to work on any of Facebook's open source projects.
+to do this once to work on any of 1nf1Corp's open source projects.
 
-Complete your CLA here: <https://code.facebook.com/cla>
+Complete your CLA In person
 
 ## Submitting a PR
 
