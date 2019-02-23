@@ -1,4 +1,4 @@
-# 1nf1CorpCTF [![Build Status](https://travis-ci.org/facebook/fbctf.svg)](https://travis-ci.org/facebook/fbctf)
+# HydraCTF [![Build Status](https://travis-ci.org/facebook/fbctf.svg)](https://travis-ci.org/facebook/fbctf)
 
 ## What is HydraCTF?
 
