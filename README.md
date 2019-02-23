@@ -2,7 +2,7 @@
 
 ## What is HydraCTF?
 
-The 1nf1CorpCTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
+The HydraCTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 
 <div align="center"><img src="screencapture.gif" /></div>
 
