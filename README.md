@@ -1,12 +1,12 @@
 # 1nf1CorpCTF [![Build Status](https://travis-ci.org/facebook/fbctf.svg)](https://travis-ci.org/facebook/fbctf)
 
-## What is 1nf1CorpCTF?
+## What is HydraCTF?
 
 The 1nf1CorpCTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 
 <div align="center"><img src="screencapture.gif" /></div>
 
-## How do I use 1nf1CorpCTF?
+## How do I use HydraCTF?
 
 * Organize a competition. This can be done with as few as two participants, all the way up to several hundred. The participants can be physically present, active online, or a combination of the two.
 * Follow setup instructions below to spin up platform infrastructure.
