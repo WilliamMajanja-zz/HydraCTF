@@ -9,6 +9,8 @@ Political and Societal Hackathon for Student Programmers and Industry Profession
 ## How do I use HydraCTF?
 
 Contact @1nf1corp on twitter and ask to be entered into #HydraCTF
+
+
 Contact @1nf1del_ on twitter and tweet "Only The Worthy Shall Enter" 
                                                           #HydraCTF ,
                                          make sure to tag @1nf1del & @1nf1corp
